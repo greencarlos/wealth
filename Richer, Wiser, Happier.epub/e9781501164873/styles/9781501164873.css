@@ -1,0 +1,385 @@
+@font-face {
+font-family: "EBGaramond";
+src: url(../fonts/EBGaramond-Bold.ttf);
+font-style: normal;
+font-weight: bold;
+}
+@font-face {
+font-family: "EBGaramond";
+src: url(../fonts/EBGaramond-BoldItalic.ttf);
+font-style: italic;
+font-weight: bold;
+}
+@font-face {
+font-family: "EBGaramond";
+src: url(../fonts/EBGaramond-Italic.ttf);
+font-style: italic;
+font-weight: normal;
+}
+@font-face {
+font-family: "EBGaramond";
+src: url(../fonts/EBGaramond-Regular.ttf);
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+font-family: "Spectral";
+src: url(../fonts/Spectral-Regular.ttf);
+font-style: normal;
+font-weight: normal;
+}
+.ipadfp {
+margin: 0;
+height: 98vh;
+text-align: center;
+}
+.imagefp {
+margin: 0em;
+height: 100%;
+text-align: center;
+}
+.h1p {
+font-family: "EBGaramond", serif;
+font-size: 0.95em;
+font-weight: bold;
+margin-top: 10%;
+margin-bottom: 1em;
+page-break-after: avoid;
+text-align: center;
+}
+.blockquotex {
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0em;
+text-indent: 0em;
+}
+.noind {
+font-family: "EBGaramond", serif;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+}
+.noindatt {
+font-family: "EBGaramond", serif;
+margin-top: 0.2em;
+margin-bottom: 1em;
+margin-left: 30%;
+margin-right: 1.2em;
+text-align: right;
+}
+.noindattn {
+font-family: "EBGaramond", serif;
+margin-top: 0.2em;
+margin-bottom: 0em;
+margin-left: 30%;
+margin-right: 1.2em;
+text-align: right;
+}
+.copya {
+margin-top: 5%;
+margin-bottom: 0.2em;
+text-align: center;
+}
+.copy {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-align: center;
+}
+.copyb {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 1em;
+text-align: center;
+}
+.ded {
+font-family: "EBGaramond", serif;
+margin-top: 15%;
+margin-bottom: 0em;
+margin-left: 5%;
+margin-right: 5%;
+text-align: center;
+}
+.h1a {
+font-family: "Spectral", serif;
+font-size: 0.9em;
+font-weight: normal;
+margin-top: 10%;
+margin-bottom: 3em;
+page-break-after: avoid;
+text-align: center;
+}
+.heading_break {
+display: block;
+font-family: "Spectral", serif;
+font-size: 1.8em;
+font-weight: normal;
+margin-top: 0.8em;
+margin-bottom: 0em;
+page-break-after: avoid;
+text-align: center;
+}
+.h1chap {
+font-family: "Spectral", serif;
+font-size: 0.9em;
+font-weight: normal;
+margin-top: 10%;
+margin-bottom: 1em;
+page-break-after: avoid;
+text-align: center;
+}
+.chsub {
+font-family: "Spectral", serif;
+font-size: 1.2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 1.2em;
+margin-right: 1.2em;
+text-align: center;
+}
+.imageq {
+margin-top: 1em;
+margin-bottom: 1.5em;
+text-align: center;
+}
+.blockquote1 {
+margin-top: 0em;
+margin-bottom: 3em;
+margin-left: 3em;
+margin-right: 3em;
+text-indent: 0em;
+}
+.chepi {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+}
+.chepiatt {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0.2em;
+margin-bottom: 1.5em;
+margin-right: 1.2em;
+text-align: right;
+}
+.chepiattn {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0.2em;
+margin-bottom: 0em;
+margin-right: 1.2em;
+text-align: right;
+}
+.noindent {
+font-family: "EBGaramond", serif;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+}
+.indent {
+font-family: "EBGaramond", serif;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 1.2em;
+}
+.h2x {
+font-family: "Spectral", serif;
+font-size: 1.1em;
+font-weight: normal;
+page-break-after: avoid;
+margin-top: 1.5em;
+margin-bottom: 1em;
+text-align: center;
+}
+ul.hanglist {
+font-family: "EBGaramond", serif;
+list-style-type: none;
+padding-left: 2.4em;
+margin-right: 1.2em;
+margin-top: 1.5em;
+margin-bottom: 1.5em;
+}
+.hang {
+font-family: "EBGaramond", serif;
+font-size: 0.95em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: -1.2em;
+}
+ol.nlist {
+font-family: "EBGaramond", serif;
+list-style-type: none;
+padding-left: 2.4em;
+margin-right: 1.2em;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+.order {
+font-family: "EBGaramond", serif;
+font-size: 0.95em;
+margin-top: 0.3em;
+margin-bottom: 0em;
+text-indent: -1.1em;
+}
+ol.nonlist1 {
+list-style-type: none;
+padding-left: 1.2em;
+margin-top: 0em;
+margin-bottom: 0em;
+}
+.ennote {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: -1.2em;
+}
+.ennoteind {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 1.2em;
+}
+.ennoteno {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+}
+.h1bm {
+font-family: "Spectral", serif;
+font-size: 1.6em;
+font-weight: normal;
+margin-top: 10%;
+margin-bottom: 2em;
+page-break-after: avoid;
+text-align: center;
+}
+.h1bmx {
+font-family: "Spectral", serif;
+font-size: 1.6em;
+font-weight: normal;
+margin-top: 10%;
+margin-bottom: 0em;
+page-break-after: avoid;
+text-align: center;
+}
+.f1 {
+font-family: "Spectral", serif;
+font-size: 1.2em;
+line-height: 0em;
+}
+.h2bm {
+font-family: "EBGaramond", serif;
+font-size: 0.9em;
+font-weight: normal;
+page-break-after: avoid;
+margin-top: 1em;
+margin-bottom: 1em;
+text-align: center;
+}
+.index-entries {
+list-style-type: none;
+margin-top: 0em;
+margin-bottom: 0em;
+padding-left: .01em;
+}
+.indextxt {
+font-family: "EBGaramond", serif;
+font-size: 0.8em;
+margin-top: 0em;
+margin-bottom: 0em;
+text-indent: 0em;
+text-align: left;
+}
+.indexmain {
+font-family: "EBGaramond", serif;
+font-size: 0.8em;
+margin-top: 0em;
+margin-bottom: 0em;
+padding-left: 0.8em;
+text-indent: -0.8em;
+text-align: left;
+}
+.indexmain1 {
+font-family: "EBGaramond", serif;
+font-size: 0.8em;
+margin-top: 1em;
+margin-bottom: 0em;
+padding-left: 0.8em;
+text-indent: -0.8em;
+text-align: left;
+}
+.imagex {
+margin-top: 1em;
+margin-bottom: 0em;
+text-align: center;
+}
+.credit {
+font-family: "EBGaramond", serif;
+margin-top: 0.49em;
+font-size: 0.7em;
+margin-bottom: 1em;
+text-align: center;
+}
+.midd {
+vertical-align: middle;
+}
+.authorsn {
+font-family: "sans-serif", sans-serif;
+font-size: 0.95em;
+margin-top: 2em;
+margin-bottom: 0em;
+text-align: center;
+}
+.authorm1 {
+font-family: "sans-serif", sans-serif;
+margin-top: 0em;
+font-size: 0.8em;
+margin-bottom: 0em;
+text-align: center;
+}
+.footnote {
+font-family: "EBGaramond", serif;
+font-size: .8em;
+margin-top: .8em;
+margin-bottom: 0em;
+text-indent: 0em;
+}
+sup.sup {
+font-size: .75em;
+vertical-align: super;
+}
+span.smallcaps {
+text-transform: uppercase;
+font-size: 0.75em;
+}
+span.bolditalic {
+font-style: italic;
+font-weight: bold;
+}
+.h2n1 {
+font-family: "Spectral", serif;
+font-size: 1.3em;
+font-weight: normal;
+margin-top: 8%;
+margin-bottom: 0em;
+page-break-after: avoid;
+text-align: center;
+}
+.h2n {
+font-family: "Spectral", serif;
+font-size: 1.3em;
+font-weight: normal;
+margin-top: 1.2em;
+margin-bottom: 0em;
+page-break-after: avoid;
+text-align: center;
+}

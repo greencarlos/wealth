@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="124922e8-8654-455a-8858-34e73b988203" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.46.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>$100M Offers: How To Make Offers So Good People Feel Stupid Saying No</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="text/part0000_split_000.html#0-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>What Others Have Said</text>
+      </navLabel>
+      <content src="text/part0002.html#1T140-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="text/part0003.html#2RHM0-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="4">
+      <navLabel>
+        <text>Thank You</text>
+      </navLabel>
+      <content src="text/part0004.html#3Q280-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text/part0005.html#4OIQ0-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="6">
+      <navLabel>
+        <text>Start Here</text>
+      </navLabel>
+      <content src="text/part0006.html#5N3C0-934aba4ab17e4575862e5db864986ffe"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="7">
+      <navLabel>
+        <text>Section I: How We Got Here</text>
+      </navLabel>
+      <content src="text/part0007_split_000.html#6LJU0-934aba4ab17e4575862e5db864986ffe"/>
+      <navPoint class="chapter" id="num_9" playOrder="8">
+        <navLabel>
+          <text>1. How We Got Here</text>
+        </navLabel>
+        <content src="text/part0008.html#7K4G0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="9">
+        <navLabel>
+          <text>2. Grand Slam Offers</text>
+        </navLabel>
+        <content src="text/part0009.html#8IL20-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="10">
+      <navLabel>
+        <text>Section II: Pricing</text>
+      </navLabel>
+      <content src="text/part0010_split_000.html#9H5K0-934aba4ab17e4575862e5db864986ffe"/>
+      <navPoint class="chapter" id="num_12" playOrder="11">
+        <navLabel>
+          <text>3. Pricing: The Commodity Problem</text>
+        </navLabel>
+        <content src="text/part0011.html#AFM60-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="12">
+        <navLabel>
+          <text>4. Pricing: Finding The Right Market -- A Starving Crowd</text>
+        </navLabel>
+        <content src="text/part0012.html#BE6O0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="13">
+        <navLabel>
+          <text>5. Pricing: Charge What It’s Worth</text>
+        </navLabel>
+        <content src="text/part0013.html#CCNA0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="14">
+      <navLabel>
+        <text>Section III: Value - Create Your Offer</text>
+      </navLabel>
+      <content src="text/part0014_split_000.html#DB7S0-934aba4ab17e4575862e5db864986ffe"/>
+      <navPoint class="chapter" id="num_16" playOrder="15">
+        <navLabel>
+          <text>6. Value Offer: The Value Equation</text>
+        </navLabel>
+        <content src="text/part0015.html#E9OE0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="16">
+        <navLabel>
+          <text>7. Free Goodwill</text>
+        </navLabel>
+        <content src="text/part0016.html#F8900-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="17">
+        <navLabel>
+          <text>8. Value Offer: The Thought Process</text>
+        </navLabel>
+        <content src="text/part0017.html#G6PI0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="18">
+        <navLabel>
+          <text>9. Value Offer: Creating Your Grand Slam Offer Part I: Problems &amp; Solutions</text>
+        </navLabel>
+        <content src="text/part0018.html#H5A40-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="19">
+        <navLabel>
+          <text>10. Value Offer: Creating Your Grand Slam Offer Part II: Trim &amp; Stack</text>
+        </navLabel>
+        <content src="text/part0019_split_000.html#I3QM0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="20">
+      <navLabel>
+        <text>Section IV: Enhancing Your Offer</text>
+      </navLabel>
+      <content src="text/part0020_split_000.html#J2B80-934aba4ab17e4575862e5db864986ffe"/>
+      <navPoint class="chapter" id="num_22" playOrder="21">
+        <navLabel>
+          <text>11. Enhancing The Offer: Scarcity, Urgency, Bonuses, Guarantees, and Naming</text>
+        </navLabel>
+        <content src="text/part0021_split_000.html#K0RQ0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="22">
+        <navLabel>
+          <text>12. Enhancing The Offer: Scarcity</text>
+        </navLabel>
+        <content src="text/part0022_split_000.html#KVCC0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="23">
+        <navLabel>
+          <text>13. Enhancing The Offer: Urgency</text>
+        </navLabel>
+        <content src="text/part0023_split_000.html#LTSU0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="24">
+        <navLabel>
+          <text>14. Enhancing The Offer: Bonuses</text>
+        </navLabel>
+        <content src="text/part0024_split_000.html#MSDG0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="25">
+        <navLabel>
+          <text>15. Enhancing The Offer: Guarantees</text>
+        </navLabel>
+        <content src="text/part0025_split_000.html#NQU20-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="26">
+        <navLabel>
+          <text>16. Enhancing The Offer: Naming</text>
+        </navLabel>
+        <content src="text/part0026_split_000.html#OPEK0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="27">
+      <navLabel>
+        <text>Section V: Execution</text>
+      </navLabel>
+      <content src="text/part0027_split_000.html#PNV60-934aba4ab17e4575862e5db864986ffe"/>
+      <navPoint class="chapter" id="num_29" playOrder="28">
+        <navLabel>
+          <text>Your First $100,000</text>
+        </navLabel>
+        <content src="text/part0028.html#QMFO0-934aba4ab17e4575862e5db864986ffe"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

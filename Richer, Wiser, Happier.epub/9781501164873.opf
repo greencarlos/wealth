@@ -1,0 +1,89 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="eisbn" version="3.0" xml:lang="en-us">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title id="t1">Richer, Wiser, Happier</dc:title>
+<meta property="title-type" refines="#t1">main</meta>
+<dc:title id="t2">How the World's Greatest Investors Win in Markets and Life</dc:title>
+<meta property="title-type" refines="#t2">subtitle</meta>
+<dc:creator id="creator01">William Green</dc:creator>
+<meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
+<dc:publisher>Scribner</dc:publisher>
+<dc:identifier id="eisbn">9781501164873</dc:identifier>
+<dc:source id="srcisbn">9781501164859</dc:source>
+<meta property="source-of" refines="#srcisbn">pagination</meta>
+<dc:language>EN-US</dc:language>
+<dc:date>2021-04-20</dc:date>
+<meta property="dcterms:modified">2021-04-20T12:00:00Z</meta>
+<meta content="cover-image" name="cover"/>
+<description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;From an award-winning financial journalist who has written for &lt;i&gt;The New Yorker, Time, &lt;/i&gt;and &lt;i&gt;Fortune,&lt;/i&gt; a fresh and unexpectedly profound book that draws on interviews with more than forty of the world's super-investors to demonstrate that the keys used to building wealth hold other life lessons as well. &lt;/b&gt;&lt;BR&gt;Billionaire investors. If we think of them, it's with a mixture of awe and suspicion. Clearly, they possess a kind of genius&amp;#8212;the proverbial Midas Touch. But are the skills they possess transferable? And would we really want to be them? Do they have anything to teach us &lt;i&gt;besides&lt;/i&gt; making money?&lt;BR&gt; &lt;BR&gt; In &lt;i&gt;Richer&lt;/i&gt;, &lt;i&gt;Wiser, Happier,&lt;/i&gt; award-winning journalist William Green has spent nearly twenty-five years interviewing these investing wizards and discovered that their talents expand well beyond the financial realm and into practical philosophy. As he discovered, most of these men and women view the world in a more interconnected way. They look...</description>
+</metadata>
+<manifest>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="e9781501164873/xhtml/nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+<item href="e9781501164873/styles/9781501164873.css" id="css" media-type="text/css"/>
+<item href="e9781501164873/styles/SS_global.css" id="css1" media-type="text/css"/>
+<item href="e9781501164873/images/9781501164873.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+<item href="e9781501164873/xhtml/cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/title.xhtml" id="title" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/praise.xhtml" id="praise" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/intro.xhtml" id="intro" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch01.xhtml" id="ch01" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch02.xhtml" id="ch02" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch03.xhtml" id="ch03" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch04.xhtml" id="ch04" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch05.xhtml" id="ch05" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch06.xhtml" id="ch06" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch07.xhtml" id="ch07" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ch08.xhtml" id="ch08" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/epilogue.xhtml" id="epilogue" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/ack.xhtml" id="ack" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/authorbio.xhtml" id="authorbio" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/bm01.xhtml" id="bm01" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/footnotes.xhtml" id="footnotes" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/index.xhtml" id="index" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/fonts/EBGaramond-Bold.ttf" id="EBGaramond-Bold" media-type="application/vnd.ms-opentype"/>
+<item href="e9781501164873/fonts/EBGaramond-BoldItalic.ttf" id="EBGaramond-BoldItalic" media-type="application/vnd.ms-opentype"/>
+<item href="e9781501164873/fonts/EBGaramond-Italic.ttf" id="EBGaramond-Italic" media-type="application/vnd.ms-opentype"/>
+<item href="e9781501164873/fonts/EBGaramond-Regular.ttf" id="EBGaramond-Regular" media-type="application/vnd.ms-opentype"/>
+<item href="e9781501164873/fonts/Spectral-Regular.ttf" id="Spectral-Regular" media-type="application/vnd.ms-opentype"/>
+<item href="e9781501164873/images/author.jpg" id="author" media-type="image/jpeg"/>
+<item href="e9781501164873/images/common01.jpg" id="common01" media-type="image/jpeg"/>
+<item href="e9781501164873/images/facebook.jpg" id="facebook" media-type="image/jpeg"/>
+<item href="e9781501164873/images/instagram.jpg" id="instagram" media-type="image/jpeg"/>
+<item href="e9781501164873/images/logo.jpg" id="logo" media-type="image/jpeg"/>
+<item href="e9781501164873/images/title.jpg" id="titlea" media-type="image/jpeg"/>
+<item href="e9781501164873/images/twitter.jpg" id="twitter" media-type="image/jpeg"/>
+<item href="e9781501164873/xhtml/SS_US_adult_signup_front.xhtml" id="SS_US_adult_signup_front" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/xhtml/SS_US_adult_signup_back.xhtml" id="SS_US_adult_signup_back" media-type="application/xhtml+xml"/>
+<item href="e9781501164873/styles/SS_signup.css" id="SS_signup" media-type="text/css"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="praise"/>
+<itemref idref="SS_US_adult_signup_front"/>
+<itemref idref="title"/>
+<itemref idref="dedication"/>
+<itemref idref="intro"/>
+<itemref idref="ch01"/>
+<itemref idref="ch02"/>
+<itemref idref="ch03"/>
+<itemref idref="ch04"/>
+<itemref idref="ch05"/>
+<itemref idref="ch06"/>
+<itemref idref="ch07"/>
+<itemref idref="ch08"/>
+<itemref idref="epilogue"/>
+<itemref idref="ack"/>
+<itemref idref="authorbio"/>
+<itemref idref="SS_US_adult_signup_back"/>
+<itemref idref="bm01"/>
+<itemref idref="index"/>
+<itemref idref="footnotes"/>
+<itemref idref="copyright"/>
+</spine>
+	<guide>
+		<reference href="e9781501164873/xhtml/cover.xhtml" title="Cover" type="cover"/>
+		<reference href="e9781501164873/xhtml/cover.xhtml" title="SRL" type="text"/>
+	</guide>
+</package>

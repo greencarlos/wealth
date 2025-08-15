@@ -1,0 +1,13 @@
+body {
+margin: 0em;
+widows: 2;
+orphans: 2;
+text-align: justify;
+}
+@page {
+margin: 1.2em;
+}
+a {
+text-decoration: none;
+border-bottom: 1px dashed;
+}

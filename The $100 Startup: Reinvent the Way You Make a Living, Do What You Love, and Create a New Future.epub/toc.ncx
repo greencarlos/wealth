@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="15b8e9da-c80d-4a60-83b3-05ad563c8bfc" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.52)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="a63f281e-b2d3-45ed-b22b-68735fbc1f64" playOrder="0">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_000.html#00009"/>
+    </navPoint>
+    <navPoint class="chapter" id="bdec6c20-bf6a-4372-a68b-49fd9b8d1c69" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="34224581-368c-4f2b-b2f6-98596db45a82" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="71479aa1-905c-4247-97f7-d72a8c3e3241" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5c1d6b56-0cde-494c-93e7-f1d27e8e2911" playOrder="4">
+      <navLabel>
+        <text>PROLOGUE : Manifesto A short guide to everything you want.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b45a5d18-5e30-4288-a62f-5a3ebf6caeda" playOrder="5">
+      <navLabel>
+        <text>PART I UNEXPECTED ENTREPRENEURS</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="80323f65-47ca-48e3-9da5-1eb805e1f61b" playOrder="6">
+      <navLabel>
+        <text>1. Renaissance</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f3d40b0e-b64b-4bf4-8f8f-c9c923bd780b" playOrder="7">
+      <navLabel>
+        <text>You already have the skills you need—you just have to know where to look.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a5a89845-87c4-446b-8f9b-541b35df2625" playOrder="8">
+      <navLabel>
+        <text>2. Give Them the Fish</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="58aaf37d-26e9-4635-b2fa-f409bad81ed5" playOrder="9">
+      <navLabel>
+        <text>How to put happiness in a box and sell it.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2e80cfc1-7dd4-41c8-8e7f-9bb353bfea53" playOrder="10">
+      <navLabel>
+        <text>3. Follow Your Passion … Maybe</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5da466ad-e4ee-4d1b-a96c-f1ea88b9296d" playOrder="11">
+      <navLabel>
+        <text>Get paid to do what you love by making sure it connects to what other people want.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="94c81763-b99d-4516-9c71-071c3f41a454" playOrder="12">
+      <navLabel>
+        <text>4. The Rise of the Roaming Entrepreneur</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2c1013e3-9480-40e5-867f-9bd5ffb552cf" playOrder="13">
+      <navLabel>
+        <text>“Location, location, location” is overrated.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="13e004fc-0786-42ce-813b-2e98832fe7ba" playOrder="14">
+      <navLabel>
+        <text>5. The New Demographics</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a717fcd4-afb9-467d-9ecc-c55e30d25071" playOrder="15">
+      <navLabel>
+        <text>Your customers all have something in common, but it has nothing to do with old-school categories.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ccd1b6f7-74b2-44ab-9004-78f8ad7290b4" playOrder="16">
+      <navLabel>
+        <text>PART II TAKING IT TO THE STREETS</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="133c03e8-5546-4606-bcd8-8c328f97a3e5" playOrder="17">
+      <navLabel>
+        <text>6. The One-Page Business Plan</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b5d6147e-7ec6-402b-b99c-36dde225f273" playOrder="18">
+      <navLabel>
+        <text>If your mission statement is much longer than this sentence, it could be too long.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d8ea229-98df-47f4-9543-38117169c5f1" playOrder="19">
+      <navLabel>
+        <text>7. An Offer You Can’t Refuse</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d8662b56-acb1-4555-8758-c21731d10ab8" playOrder="20">
+      <navLabel>
+        <text>The step-by-step guide to creating a killer offer.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="767fff44-4d3d-4dcd-ab78-31d7cf0b4f0d" playOrder="21">
+      <navLabel>
+        <text>8. Launch!</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="59b58f96-51ec-4927-9100-a0f620bd5ddc" playOrder="22">
+      <navLabel>
+        <text>A trip to Hollywood from your living room or the corner coffee shop.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5016c7e7-6a06-4984-a2be-b4c086e45349" playOrder="23">
+      <navLabel>
+        <text>9. Hustling: The Gentle Art of Self-Promotion</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="acb3cba0-b77b-4b2b-b6d2-331003b9ca03" playOrder="24">
+      <navLabel>
+        <text>Advertising is like sex: Only losers pay for it.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="83589bb0-0e0a-49f2-85a4-16561e0c5afd" playOrder="25">
+      <navLabel>
+        <text>10. Show Me the Money</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bb262945-0a8b-4f2f-ab2b-e6fadf59499d" playOrder="26">
+      <navLabel>
+        <text>Unconventional fundraising from Kickstarter to unlikely car loans.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9ab4eaa7-1c2b-4de2-8450-054da7c5d53c" playOrder="27">
+      <navLabel>
+        <text>PART III LEVERAGE AND NEXT STEPS</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7fddbd05-f1b7-4a4b-a6cb-4bec90eab876" playOrder="28">
+      <navLabel>
+        <text>11. Moving On Up</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a2f30f49-ae26-4876-8539-b9b13204f8a1" playOrder="29">
+      <navLabel>
+        <text>Tweaking your way to the bank: How small actions create big increases in income.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7a38be39-8395-48f0-bb89-d467b366fca5" playOrder="30">
+      <navLabel>
+        <text>12. How to Franchise Yourself</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="03217d28-2178-49a2-822f-57b96dfca8d1" playOrder="31">
+      <navLabel>
+        <text>Instructions on cloning yourself for fun and profit.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3b99f5d6-b625-40e1-ac86-bf7d17c0c71c" playOrder="32">
+      <navLabel>
+        <text>13. Going Long</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f472eb4c-394c-40e1-b2ce-f2859645049d" playOrder="33">
+      <navLabel>
+        <text>Become as big as you want to be (and no bigger).</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_042.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bf21166f-a1c6-4525-9fb4-25210a72c11f" playOrder="34">
+      <navLabel>
+        <text>14. But What If I Fail?</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_043.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b2f8991c-4954-41ec-be39-6549ccd28b00" playOrder="35">
+      <navLabel>
+        <text>How to succeed even if your roof caves in on you.</text>
+      </navLabel>
+      <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_044.html"/>
+      <navPoint class="chapter" id="3386fd2d-128c-45b6-aa74-baf2f3d9a5fe" playOrder="36">
+        <navLabel>
+          <text>CODA</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_045.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="fe9bacb1-7be6-409f-bb08-9a86b7bbb307" playOrder="37">
+        <navLabel>
+          <text>DISCLOSURES AND INTERESTING FACTS</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_046.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="1664df24-3866-42ee-8255-498957d1ac7d" playOrder="38">
+        <navLabel>
+          <text>BUT WAIT, THERE’S MORE!</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_047.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="a79a9f3e-9f10-497b-9b9f-75a717d81550" playOrder="39">
+        <navLabel>
+          <text>FISH STORIES APPENDIX: TWENTY-FIVE SELECTED CASE STUDIES</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_048.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="70fa99be-9776-449c-acd7-a503a9e62d2f" playOrder="40">
+        <navLabel>
+          <text>GRATITUDE</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="2fc438f5-3526-4dd6-9f26-3ffdd7a7f9da" playOrder="41">
+        <navLabel>
+          <text>ROCKSTARS FROM THE $100 STARTUP</text>
+        </navLabel>
+        <content src="CR!Z2SBDSBFZN2NN907603NYYHXDBRV_split_051.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

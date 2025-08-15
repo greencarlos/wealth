@@ -1,0 +1,10 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Alegreya";
+    font-weight: normal;
+    font-style: normal;
+    src: url(fonts/00001.otf)
+    }
